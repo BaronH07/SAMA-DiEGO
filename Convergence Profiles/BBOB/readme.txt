@@ -1,4 +1,4 @@
-Convergence profilers/plots of the fifteen dicretized BBOB problems as described in the paper.
+Convergence profiles/plots of the fifteen dicretized BBOB problems as described in the paper.
 List of algorithms' aliases (from plots to the paper)
     Left profiler <-> Right paper
 1. SAMA-DiEGO-A <-> SAMA DiEGO PV
