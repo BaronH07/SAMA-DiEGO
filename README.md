@@ -5,6 +5,14 @@ Algorithm Name: Self-Adaptive Multi-surrogate Assisted Discrete Efficient Global
 
 
 
+Contents:
+
+- Codes: source codes directory
+- Convergence Profiles: convergence plots to some of the problems and benchmarked algorithms
+- Supplementary Documents: the extensive version of the paper
+
+
+
 Usage:
 
 1. Install python 3.8.11 (preferably Anaconda)
