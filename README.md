@@ -9,7 +9,7 @@ Contents:
 
 - Codes: source codes directory
 - Convergence Profiles: convergence plots to some of the problems and benchmarked algorithms
-- Supplementary Documents: the extensive version of the paper
+- Supplementary Documents: the extended version of the paper and other supplementary information as mentioned in the paper.
 
 
 
